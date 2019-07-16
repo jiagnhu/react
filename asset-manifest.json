@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/jh-firstReact/static/css/main.2cce8147.chunk.css",
-    "main.js": "/jh-firstReact/static/js/main.204deb85.chunk.js",
-    "main.js.map": "/jh-firstReact/static/js/main.204deb85.chunk.js.map",
-    "runtime~main.js": "/jh-firstReact/static/js/runtime~main.df403bdf.js",
-    "runtime~main.js.map": "/jh-firstReact/static/js/runtime~main.df403bdf.js.map",
-    "static/js/2.027cfc7f.chunk.js": "/jh-firstReact/static/js/2.027cfc7f.chunk.js",
-    "static/js/2.027cfc7f.chunk.js.map": "/jh-firstReact/static/js/2.027cfc7f.chunk.js.map",
-    "index.html": "/jh-firstReact/index.html",
-    "precache-manifest.58e2c6115b4df88f78ed59355dbb82ef.js": "/jh-firstReact/precache-manifest.58e2c6115b4df88f78ed59355dbb82ef.js",
-    "service-worker.js": "/jh-firstReact/service-worker.js",
-    "static/css/main.2cce8147.chunk.css.map": "/jh-firstReact/static/css/main.2cce8147.chunk.css.map",
-    "static/media/logo.svg": "/jh-firstReact/static/media/logo.5d5d9eef.svg"
+    "main.css": "/react/jh-firstReact/static/css/main.2cce8147.chunk.css",
+    "main.js": "/react/jh-firstReact/static/js/main.304795c5.chunk.js",
+    "main.js.map": "/react/jh-firstReact/static/js/main.304795c5.chunk.js.map",
+    "runtime~main.js": "/react/jh-firstReact/static/js/runtime~main.db1f2ff4.js",
+    "runtime~main.js.map": "/react/jh-firstReact/static/js/runtime~main.db1f2ff4.js.map",
+    "static/js/2.027cfc7f.chunk.js": "/react/jh-firstReact/static/js/2.027cfc7f.chunk.js",
+    "static/js/2.027cfc7f.chunk.js.map": "/react/jh-firstReact/static/js/2.027cfc7f.chunk.js.map",
+    "index.html": "/react/jh-firstReact/index.html",
+    "precache-manifest.9f30373a65c611c2adb45069fc774413.js": "/react/jh-firstReact/precache-manifest.9f30373a65c611c2adb45069fc774413.js",
+    "service-worker.js": "/react/jh-firstReact/service-worker.js",
+    "static/css/main.2cce8147.chunk.css.map": "/react/jh-firstReact/static/css/main.2cce8147.chunk.css.map",
+    "static/media/logo.svg": "/react/jh-firstReact/static/media/logo.5d5d9eef.svg"
   }
 }
